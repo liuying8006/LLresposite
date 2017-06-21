@@ -1,3 +1,4 @@
 test git commit
 test git commit twice
 test git commit third
+test git commit fource
